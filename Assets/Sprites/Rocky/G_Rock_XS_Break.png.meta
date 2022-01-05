@@ -1,0 +1,457 @@
+fileFormatVersion: 2
+guid: 7a22aab6517e20c42a7674879cf45047
+timeCreated: 1540803487
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: G_Rock_XS_Break_0
+    21300002: G_Rock_XS_Break_1
+    21300004: G_Rock_XS_Break_2
+    21300006: G_Rock_XS_Break_3
+    21300008: G_Rock_XS_Break_4
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: G_Rock_XS_Break_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 304
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73, y: 75}
+        - {x: -120, y: 72}
+        - {x: -152, y: 71}
+        - {x: -152, y: -6}
+        - {x: -138, y: -57}
+        - {x: -90, y: -74}
+        - {x: 121, y: -74}
+        - {x: 152, y: -11}
+        - {x: 152, y: 75}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: G_Rock_XS_Break_1
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 0
+        width: 304
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -152, y: 75}
+        - {x: -152, y: -43}
+        - {x: -123, y: -74}
+        - {x: 69, y: -74}
+        - {x: 152, y: -41}
+        - {x: 152, y: 75}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: G_Rock_XS_Break_2
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 0
+        width: 304
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 112, y: -28}
+        - {x: 108, y: -28}
+        - {x: 113, y: -27}
+        - {x: 115, y: -25}
+        - {x: 116, y: -20}
+        - {x: 103, y: -15}
+        - {x: 78, y: -15}
+        - {x: 62, y: -28}
+        - {x: 58, y: -44}
+        - {x: 58, y: -63}
+        - {x: 80, y: -72}
+        - {x: 102, y: -72}
+        - {x: 123, y: -53}
+        - {x: 123, y: -32}
+        - {x: 122, y: -30}
+      - - {x: -104, y: -23}
+        - {x: -130, y: -23}
+        - {x: -130, y: -43}
+        - {x: -114, y: -60}
+        - {x: -98, y: -62}
+        - {x: -66, y: -62}
+        - {x: -66, y: -51}
+        - {x: -91, y: -26}
+      - - {x: -21, y: -8}
+        - {x: -14, y: 5}
+        - {x: -14, y: 10}
+        - {x: -15, y: 12}
+        - {x: -7, y: 22}
+        - {x: -7, y: 25}
+        - {x: -27, y: 25}
+        - {x: -63, y: 19}
+        - {x: -76, y: 0}
+        - {x: -75, y: -7}
+        - {x: -72, y: -9}
+        - {x: -77, y: -23}
+        - {x: -77, y: -26}
+        - {x: -74, y: -29}
+        - {x: -64, y: -28}
+        - {x: -27, y: -25}
+        - {x: -16, y: -11}
+        - {x: -17, y: -8}
+      - - {x: 101, y: 39}
+        - {x: 93, y: 39}
+        - {x: 77, y: 28}
+        - {x: 77, y: 9}
+        - {x: 92, y: 5}
+        - {x: 117, y: 5}
+        - {x: 120, y: 12}
+        - {x: 120, y: 18}
+      - - {x: -135, y: 78}
+        - {x: -152, y: 61}
+        - {x: -152, y: 30}
+        - {x: -134, y: 9}
+        - {x: -127, y: 9}
+        - {x: -126, y: 10}
+        - {x: -97, y: 50}
+        - {x: -97, y: 73}
+        - {x: -99, y: 78}
+      - - {x: 139, y: 73}
+        - {x: 119, y: 73}
+        - {x: 110, y: 66}
+        - {x: 110, y: 29}
+        - {x: 116, y: 20}
+        - {x: 139, y: 20}
+        - {x: 151, y: 36}
+        - {x: 151, y: 67}
+      - - {x: 45, y: 73}
+        - {x: 34, y: 45}
+        - {x: 34, y: 33}
+        - {x: 52, y: 25}
+        - {x: 74, y: 25}
+        - {x: 98, y: 40}
+        - {x: 98, y: 59}
+        - {x: 75, y: 73}
+      - - {x: -3, y: 73}
+        - {x: -14, y: 64}
+        - {x: -23, y: 38}
+        - {x: -23, y: 28}
+        - {x: -15, y: 26}
+        - {x: 28, y: 26}
+        - {x: 35, y: 45}
+        - {x: 35, y: 73}
+      - - {x: -85, y: 74}
+        - {x: -90, y: 68}
+        - {x: -90, y: 45}
+        - {x: -71, y: 28}
+        - {x: -34, y: 28}
+        - {x: -34, y: 74}
+      - - {x: -96, y: 44}
+        - {x: -97, y: 39}
+        - {x: -95, y: 37}
+        - {x: -94, y: 37}
+        - {x: -91, y: 40}
+        - {x: -91, y: 43}
+        - {x: -93, y: 45}
+      - - {x: 101, y: 74}
+        - {x: 93, y: 72}
+        - {x: 93, y: 59}
+        - {x: 97, y: 58}
+        - {x: 105, y: 58}
+        - {x: 110, y: 63}
+        - {x: 110, y: 70}
+        - {x: 109, y: 74}
+      - - {x: -9, y: 73}
+        - {x: -7, y: 71}
+        - {x: -2, y: 74}
+        - {x: -3, y: 77}
+        - {x: -7, y: 77}
+        - {x: -9, y: 75}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: G_Rock_XS_Break_3
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 0
+        width: 304
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -130, y: -42}
+        - {x: -125, y: -36}
+        - {x: -125, y: -34}
+        - {x: -131, y: -27}
+        - {x: -142, y: -27}
+        - {x: -143, y: -28}
+        - {x: -143, y: -49}
+        - {x: -124, y: -68}
+        - {x: -104, y: -68}
+        - {x: -103, y: -67}
+        - {x: -103, y: -60}
+        - {x: -108, y: -33}
+        - {x: -119, y: -33}
+        - {x: -128, y: -40}
+      - - {x: 130, y: -42}
+        - {x: 118, y: -32}
+        - {x: 98, y: -32}
+        - {x: 87, y: -39}
+        - {x: 87, y: -54}
+        - {x: 94, y: -62}
+        - {x: 103, y: -68}
+        - {x: 122, y: -68}
+        - {x: 124, y: -67}
+        - {x: 122, y: -58}
+        - {x: 125, y: -62}
+        - {x: 130, y: -56}
+      - - {x: -78, y: 31}
+        - {x: -95, y: 19}
+        - {x: -95, y: 8}
+        - {x: -68, y: 8}
+        - {x: -65, y: 17}
+        - {x: -65, y: 31}
+      - - {x: -40, y: 18}
+        - {x: -38, y: 16}
+        - {x: -35, y: 17}
+        - {x: -35, y: 20}
+        - {x: -37, y: 22}
+        - {x: -40, y: 21}
+      - - {x: -59, y: 35}
+        - {x: -61, y: 32}
+        - {x: -61, y: 27}
+        - {x: -52, y: 17}
+        - {x: -46, y: 17}
+        - {x: -41, y: 19}
+        - {x: -41, y: 23}
+        - {x: -42, y: 32}
+        - {x: -43, y: 35}
+      - - {x: 70, y: 74}
+        - {x: 64, y: 58}
+        - {x: 64, y: 47}
+        - {x: 70, y: 37}
+        - {x: 97, y: 25}
+        - {x: 107, y: 25}
+        - {x: 111, y: 26}
+        - {x: 111, y: 44}
+        - {x: 87, y: 74}
+      - - {x: -43, y: 43}
+        - {x: -43, y: 33}
+        - {x: -41, y: 29}
+        - {x: -17, y: 29}
+        - {x: -17, y: 34}
+        - {x: -37, y: 43}
+      - - {x: -131, y: 50}
+        - {x: -135, y: 47}
+        - {x: -135, y: 41}
+        - {x: -131, y: 36}
+        - {x: -128, y: 36}
+        - {x: -119, y: 40}
+        - {x: -114, y: 44}
+        - {x: -115, y: 47}
+        - {x: -124, y: 50}
+      - - {x: -2, y: 60}
+        - {x: -6, y: 60}
+        - {x: -11, y: 57}
+        - {x: -11, y: 40}
+        - {x: -10, y: 39}
+        - {x: 18, y: 39}
+        - {x: 18, y: 47}
+        - {x: 14, y: 54}
+      - - {x: -105, y: 44}
+        - {x: -105, y: 43}
+        - {x: -103, y: 41}
+        - {x: -102, y: 41}
+        - {x: -99, y: 44}
+        - {x: -99, y: 46}
+        - {x: -102, y: 47}
+      - - {x: 37, y: 64}
+        - {x: 37, y: 53}
+        - {x: 38, y: 50}
+        - {x: 47, y: 45}
+        - {x: 51, y: 45}
+        - {x: 54, y: 47}
+        - {x: 54, y: 59}
+        - {x: 50, y: 64}
+      - - {x: -33, y: 73}
+        - {x: -41, y: 59}
+        - {x: -41, y: 53}
+        - {x: -37, y: 50}
+        - {x: -30, y: 47}
+        - {x: -18, y: 47}
+        - {x: -9, y: 60}
+        - {x: -9, y: 73}
+      - - {x: -85, y: 74}
+        - {x: -88, y: 68}
+        - {x: -88, y: 58}
+        - {x: -80, y: 48}
+        - {x: -68, y: 48}
+        - {x: -62, y: 50}
+        - {x: -62, y: 74}
+      - - {x: -140, y: 70}
+        - {x: -146, y: 62}
+        - {x: -146, y: 52}
+        - {x: -145, y: 49}
+        - {x: -124, y: 49}
+        - {x: -118, y: 50}
+        - {x: -118, y: 59}
+        - {x: -120, y: 64}
+        - {x: -131, y: 69}
+        - {x: -137, y: 70}
+      - - {x: -107, y: 77}
+        - {x: -122, y: 77}
+        - {x: -129, y: 74}
+        - {x: -130, y: 73}
+        - {x: -130, y: 65}
+        - {x: -112, y: 51}
+        - {x: -107, y: 51}
+        - {x: -104, y: 52}
+        - {x: -104, y: 56}
+        - {x: -98, y: 64}
+        - {x: -98, y: 73}
+      - - {x: 9, y: 76}
+        - {x: 3, y: 69}
+        - {x: 3, y: 58}
+        - {x: 9, y: 52}
+        - {x: 25, y: 52}
+        - {x: 36, y: 64}
+        - {x: 36, y: 74}
+        - {x: 30, y: 76}
+      - - {x: -116, y: 53}
+        - {x: -113, y: 54}
+        - {x: -113, y: 57}
+        - {x: -116, y: 58}
+        - {x: -118, y: 56}
+      - - {x: 145, y: 61}
+        - {x: 148, y: 58}
+        - {x: 151, y: 59}
+        - {x: 151, y: 63}
+        - {x: 148, y: 66}
+        - {x: 145, y: 65}
+      - - {x: -1, y: 61}
+        - {x: 2, y: 62}
+        - {x: 2, y: 65}
+        - {x: -1, y: 66}
+        - {x: -3, y: 64}
+      - - {x: -57, y: 65}
+        - {x: -55, y: 63}
+        - {x: -52, y: 64}
+        - {x: -52, y: 67}
+        - {x: -54, y: 69}
+        - {x: -57, y: 68}
+      - - {x: 54, y: 73}
+        - {x: 50, y: 70}
+        - {x: 50, y: 66}
+        - {x: 53, y: 63}
+        - {x: 57, y: 64}
+        - {x: 61, y: 67}
+        - {x: 61, y: 70}
+        - {x: 60, y: 73}
+      - - {x: -5, y: 72}
+        - {x: -2, y: 73}
+        - {x: -2, y: 76}
+        - {x: -5, y: 77}
+        - {x: -7, y: 75}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: G_Rock_XS_Break_4
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 0
+        width: 304
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

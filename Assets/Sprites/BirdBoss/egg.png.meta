@@ -1,0 +1,359 @@
+fileFormatVersion: 2
+guid: 3e6a6a46c7bfff842a820b14365ec010
+timeCreated: 1535445319
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: egg_0
+    21300002: egg_1
+    21300004: egg_2
+    21300006: egg_3
+    21300008: egg_4
+    21300010: egg_5
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: egg_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 50}
+        - {x: -39, y: 42}
+        - {x: -39, y: -49}
+        - {x: -34, y: -50}
+        - {x: 38, y: -50}
+        - {x: 38, y: 38}
+        - {x: 35, y: 50}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: egg_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 17}
+        - {x: -1, y: 14}
+        - {x: -1, y: 9}
+        - {x: -3, y: 0}
+        - {x: -3, y: -4}
+        - {x: -4, y: -2}
+        - {x: -2, y: 4}
+        - {x: -4, y: 14}
+        - {x: -5, y: 17}
+        - {x: -23, y: 17}
+        - {x: -44, y: 0}
+        - {x: -44, y: -42}
+        - {x: -41, y: -50}
+        - {x: 29, y: -50}
+        - {x: 41, y: -41}
+        - {x: 41, y: 2}
+        - {x: 22, y: 17}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: egg_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 18}
+        - {x: -46, y: 16}
+        - {x: -46, y: -50}
+        - {x: 36, y: -50}
+        - {x: 47, y: -31}
+        - {x: 47, y: 17}
+        - {x: 41, y: 18}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: egg_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -39}
+        - {x: -41, y: -50}
+        - {x: -4, y: -50}
+        - {x: -4, y: -33}
+        - {x: -10, y: -20}
+        - {x: -48, y: -20}
+        - {x: -50, y: -22}
+      - - {x: 21, y: -17}
+        - {x: 14, y: -21}
+        - {x: 11, y: -32}
+        - {x: 11, y: -42}
+        - {x: 20, y: -48}
+        - {x: 41, y: -48}
+        - {x: 45, y: -47}
+        - {x: 50, y: -37}
+        - {x: 50, y: -23}
+        - {x: 35, y: -17}
+      - - {x: 40, y: 15}
+        - {x: 29, y: 11}
+        - {x: 26, y: 4}
+        - {x: 26, y: -16}
+        - {x: 33, y: -20}
+        - {x: 50, y: -20}
+        - {x: 50, y: 14}
+        - {x: 49, y: 15}
+      - - {x: -50, y: 1}
+        - {x: -50, y: -14}
+        - {x: -48, y: -18}
+        - {x: -45, y: -19}
+        - {x: -41, y: -19}
+        - {x: -36, y: -15}
+        - {x: -36, y: -6}
+        - {x: -40, y: 1}
+      - - {x: 37, y: -1}
+        - {x: 41, y: -3}
+        - {x: 42, y: -2}
+        - {x: 37, y: 0}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: egg_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: -27}
+        - {x: 15, y: -39}
+        - {x: 15, y: -43}
+        - {x: 21, y: -50}
+        - {x: 44, y: -50}
+        - {x: 49, y: -43}
+        - {x: 49, y: -36}
+        - {x: 39, y: -27}
+      - - {x: -47, y: -17}
+        - {x: -50, y: -20}
+        - {x: -50, y: -37}
+        - {x: -42, y: -41}
+        - {x: -40, y: -35}
+        - {x: -40, y: -30}
+        - {x: -39, y: -28}
+        - {x: -40, y: -32}
+        - {x: -40, y: -44}
+        - {x: -38, y: -46}
+        - {x: -31, y: -50}
+        - {x: -22, y: -50}
+        - {x: -13, y: -46}
+        - {x: -13, y: -34}
+        - {x: -33, y: -17}
+      - - {x: -23, y: -13}
+        - {x: -24, y: -17}
+        - {x: -24, y: -28}
+        - {x: -22, y: -31}
+        - {x: -17, y: -31}
+        - {x: -10, y: -27}
+        - {x: -10, y: -21}
+        - {x: -16, y: -13}
+      - - {x: 39, y: 2}
+        - {x: 36, y: 1}
+        - {x: 36, y: -23}
+        - {x: 38, y: -24}
+        - {x: 42, y: -25}
+        - {x: 47, y: -25}
+        - {x: 50, y: -22}
+        - {x: 50, y: 0}
+        - {x: 44, y: 2}
+      - - {x: -44, y: 4}
+        - {x: -50, y: 4}
+        - {x: -50, y: -11}
+        - {x: -46, y: -16}
+        - {x: -40, y: -16}
+        - {x: -38, y: -13}
+        - {x: -38, y: -1}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: egg_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: -37}
+        - {x: -26, y: -36}
+        - {x: -29, y: -36}
+        - {x: -32, y: -40}
+        - {x: -32, y: -50}
+        - {x: -22, y: -50}
+        - {x: -20, y: -47}
+        - {x: -18, y: -42}
+        - {x: -18, y: -40}
+      - - {x: 19, y: -43}
+        - {x: 22, y: -49}
+        - {x: 25, y: -50}
+        - {x: 37, y: -50}
+        - {x: 38, y: -49}
+        - {x: 38, y: -45}
+        - {x: 35, y: -39}
+        - {x: 31, y: -37}
+        - {x: 24, y: -37}
+        - {x: 19, y: -39}
+      - - {x: -50, y: -24}
+        - {x: -50, y: -35}
+        - {x: -43, y: -48}
+        - {x: -37, y: -48}
+        - {x: -34, y: -44}
+        - {x: -31, y: -36}
+        - {x: -31, y: -24}
+      - - {x: 42, y: -32}
+        - {x: 41, y: -35}
+        - {x: 40, y: -39}
+        - {x: 41, y: -42}
+        - {x: 47, y: -42}
+        - {x: 50, y: -41}
+        - {x: 50, y: -33}
+        - {x: 48, y: -32}
+      - - {x: 33, y: -27}
+        - {x: 30, y: -29}
+        - {x: 29, y: -33}
+        - {x: 34, y: -37}
+        - {x: 38, y: -37}
+        - {x: 41, y: -36}
+        - {x: 41, y: -30}
+        - {x: 40, y: -27}
+      - - {x: 42, y: -14}
+        - {x: 40, y: -15}
+        - {x: 40, y: -23}
+        - {x: 46, y: -27}
+        - {x: 48, y: -27}
+        - {x: 50, y: -26}
+        - {x: 50, y: -14}
+      - - {x: -21, y: -11}
+        - {x: -25, y: -11}
+        - {x: -28, y: -15}
+        - {x: -28, y: -21}
+        - {x: -22, y: -26}
+        - {x: -19, y: -26}
+        - {x: -15, y: -23}
+        - {x: -15, y: -18}
+      - - {x: -50, y: -7}
+        - {x: -50, y: -17}
+        - {x: -47, y: -18}
+        - {x: -45, y: -18}
+        - {x: -42, y: -16}
+        - {x: -42, y: -7}
+      - - {x: 42, y: 0}
+        - {x: 42, y: -10}
+        - {x: 46, y: -12}
+        - {x: 50, y: -12}
+        - {x: 50, y: -1}
+        - {x: 49, y: 0}
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
